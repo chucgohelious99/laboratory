@@ -1,0 +1,2 @@
+Kịch bản 1: giữ nguyên E = 80000, v = 5, thay đổi số lượng node
+Trong mỗi file kết quả là đường đi tốt nhất và tồi nhất trong pha 1
